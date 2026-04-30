@@ -9,7 +9,7 @@
   🌱 I’m currently learning <strong>Advanced Java & System Design</strong><br>
   🚀 I’m working on <strong>Spring Boot & React Projects</strong><br>
   💬 Ask me about <strong>Java, Spring Boot, React, SQL, Docker</strong><br>
-  📫 How to reach me <a href="mailto:yakov.benhemo5@gmail.com">yakov.benhemo5@gmail.com</a>
+  📫 How to reach me <a href="mailto:benmoshe016@gmail.com">benmoshe016@gmail.com</a>
 </p>
 
 ---
@@ -29,14 +29,3 @@
   <a href="https://tailwindcss.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="40" height="40"/> </a>
 </p>
 
----
-
-<h3 align="center">📊 GitHub Stats:</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yakov152005&show_icons=true&theme=dark" alt="GitHub Stats" />
-</p>
-
-<h3 align="center">🔥 Most Used Languages:</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yakov152005&layout=compact&theme=dark" alt="Most Used Languages" />
-</p>
