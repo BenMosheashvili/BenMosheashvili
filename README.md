@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋, I'm Ben Mosheashvili</h1>
 <h3 align="center">🎓 B.Sc in Computer Science</h3>
+<div align="center">
+  <a href="https://benmosheashvili.github.io/BEN-CV/">
+    <img src="https://img.shields.io/badge/RUN_PORTFOLIO-CLICK_HERE-green?style=for-the-badge&logo=rocket&logoColor=white" Alt="Run Portfolio" />
+  </a>
+</div>
 
 <p align="center">
   <img src="https://static.wixstatic.com/media/b313a9_89ebec0c5f384c65a9551f0c1ec18ca9~mv2.gif" width="400" />
