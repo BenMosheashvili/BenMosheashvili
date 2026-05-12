@@ -9,6 +9,8 @@
 
 [![לחצו כאן לכניסה לפורטפוליו](https://img.shields.io/badge/לכניסה_לפורטפוליו_האינטראקטיבי_שלי-לחצו_כאן-10b981?style=for-the-badge&logo=googlechrome&logoColor=white)](https://benmosheashvili.github.io/BEN-CV/)
 
+* [**🏎️ Ben's CV Quest**](https://github.com/BenMosheashvili/MY-PROFOLIO-GAME-) — פרויקט פורטפוליו אינטראקטיבי מבוסס  סעו במפה כדי לגלות את הניסיון והכישורים שלי!
+
 <p align="center">
   <img src="https://static.wixstatic.com/media/b313a9_89ebec0c5f384c65a9551f0c1ec18ca9~mv2.gif" width="400" />
 </p>
