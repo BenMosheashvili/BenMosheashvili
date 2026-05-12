@@ -12,8 +12,6 @@
 בואו לסיבוב! במקום לגלול, פשוט עלו על הרכב וסעו בין התחנות כדי לחקור את הניסיון, הפרויקטים והכישורים שלי.
 
 *   **🕹️ איך משחקים:** חיצים או WASD לנהיגה, **E** לכניסה לתחנה.
-*   **🛠️ טכנולוגיה:** Zero frameworks – נבנה ב-Pure Vanilla JS ו-HTML5 Canvas.
-
 [![לחצו כאן לכניסה לפורטפוליו](https://img.shields.io/badge/לכניסה_לפורטפוליו_האינטראקטיבי_שלי-לחצו_כאן-10b981?style=for-the-badge&logo=googlechrome&logoColor=white)](https://benmosheashvili.github.io/BEN-CV/)
 
 <p align="center">
