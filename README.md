@@ -1,8 +1,14 @@
 <h1 align="center">Hi 👋, I'm Ben Mosheashvili</h1>
 <h3 align="center">🎓 B.Sc in Computer Science</h3>
-# [🚀 לחצו כאן להרצת הפורטפוליו האינטראקטיבי שלי - Demo Live](https://benmosheashvili.github.io/BEN-CV/)
-> **חשוב לממיינים:** בניתי את האתר הזה במיוחד כדי להציג את הארכיטקטורה של SYNCX ואת היכולות הטכנולוגיות שלי בצורה נגישה.
----
+
+# 🚀 היי צוות מיון / מראיינים! 
+### אני יודע שאתם קוראים עשרות קורות חיים ביום, אז בואו נעשה את זה מעניין:
+
+> במקום שתצטרכו לקרוא עוד מסמך PDF יבש, בניתי עבורכם **פורטפוליו אינטראקטיבי** שמרכז הכל במקום אחד. 
+> תוכלו לראות שם בדיוק איך אני כותב קוד, איך אני חושב על ארכיטקטורה, ומה עשיתי עד היום.
+
+[![לחצו כאן לכניסה לפורטפוליו](https://img.shields.io/badge/לכניסה_לפורטפוליו_האינטראקטיבי_שלי-לחצו_כאן-10b981?style=for-the-badge&logo=googlechrome&logoColor=white)](https://benmosheashvili.github.io/BEN-CV/)
+
 <p align="center">
   <img src="https://static.wixstatic.com/media/b313a9_89ebec0c5f384c65a9551f0c1ec18ca9~mv2.gif" width="400" />
 </p>
